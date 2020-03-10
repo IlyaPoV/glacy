@@ -1,0 +1,9 @@
+.btn {
+    display: flexbox;
+    box-sizing: border-box;
+    padding: 15px 54px ;
+    background-color: #FB565A;
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+}
